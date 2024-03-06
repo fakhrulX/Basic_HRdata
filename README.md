@@ -1,2 +1,2 @@
 # Basic_HRdata
-After doing this project, you all will have a good knowledge of Mysql
+Hey guys,In this project you will get to learn many things which will help you in practical life.Other than that after the completion of this project you will a good command in Mysql. 
